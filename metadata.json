@@ -1,0 +1,6 @@
+{
+  "name": "سائق القاهرة 3D",
+  "description": "لعبة محاكاة قيادة ميكروباص ثلاثية الأبعاد في شوارع القاهرة لتوصيل الركاب وكسب الجنيهات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

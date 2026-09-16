@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Microbus Main Body (White / Off-white) -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M26,45 C26,40 30,37 36,37 L72,37 C77,37 81,40 82,45 L85,63 C85,66 83,69 80,69 L28,69 C25,69 23,66 23,63 Z" />
+
+    <!-- Roof Rack with Cairo luggage / sign -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M34,34 L74,34 C75.1,34 76,34.9 76,36 L76,37 L32,37 L32,36 C32,34.9 32.9,34 34,34 Z" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M44,31 L64,31 C65,31 66,32 66,33 L66,34 L42,34 L42,33 C42,32 43,31 44,31 Z" />
+
+    <!-- Iconic Cairo Microbus Blue Stripe -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M23,55 L85,55 L85,61 L23,61 Z" />
+
+    <!-- Windshield & Windows -->
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M28,42 C28,41 29,40 30,40 L44,40 L44,52 L27,52 Z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M47,40 L60,40 L60,52 L47,52 Z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M63,40 L76,40 C78,40 80,42 81,44 L83,52 L63,52 Z" />
+
+    <!-- Headlights & Grille -->
+    <path
+        android:fillColor="#FEF08A"
+        android:pathData="M81,56 L85,56 C85.6,56 86,56.4 86,57 L86,59 C86,59.6 85.6,60 85,60 L81,60 Z" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M23,56 L25,56 L25,60 L23,60 Z" />
+    <path
+        android:fillColor="#334155"
+        android:pathData="M82,62 L85,62 L85,66 L82,66 Z" />
+
+    <!-- Front Bumper -->
+    <path
+        android:fillColor="#475569"
+        android:pathData="M22,67 L86,67 C87,67 88,68 88,69 L88,71 C88,71.5 87.5,72 87,72 L21,72 C20.5,72 20,71.5 20,71 L20,69 C20,68 21,67 22,67 Z" />
+
+    <!-- Left Wheel (Back) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M31,66 C31,62.7 33.7,60 37,60 C40.3,60 43,62.7 43,66 L43,74 C43,75.1 42.1,76 41,76 L33,76 C31.9,76 31,75.1 31,74 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M34,67 C34,65.3 35.3,64 37,64 C38.7,64 40,65.3 40,67 C40,68.7 38.7,70 37,70 C35.3,70 34,68.7 34,67 Z" />
+
+    <!-- Right Wheel (Front) -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M65,66 C65,62.7 67.7,60 71,60 C74.3,60 77,62.7 77,66 L77,74 C77,75.1 76.1,76 75,76 L67,76 C65.9,76 65,75.1 65,74 Z" />
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M68,67 C68,65.3 69.3,64 71,64 C72.7,64 74,65.3 74,67 C74,68.7 72.7,70 71,70 C69.3,70 68,68.7 68,67 Z" />
+
+    <!-- Speed / Motion lines -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M15,48 L22,48 M12,54 L19,54 M16,60 L21,60" />
+</vector>
